@@ -8,7 +8,7 @@ class NumPicker extends React.Component {
 		if (num === 7) {
 			msg =
 				<div>
-					<h2>CONGRATS YOU WIN!</h2>
+					<h2>CONGRATS YOU WIN, Jesse!!</h2>
 					<img src="https://i.giphy.com/media/nXxOjZrbnbRxS/giphy.webp" />
 				</div>
 		} else {

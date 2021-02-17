@@ -2,7 +2,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Hello to="Ringo" from="Paul" />
+        <Hello to="Jesse" from="Goo" />
         <Hello to="Cher" from="Sonny" />
       </div>
     )

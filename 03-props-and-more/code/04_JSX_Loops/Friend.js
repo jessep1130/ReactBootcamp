@@ -6,7 +6,7 @@ class Friend extends React.Component {
       <div>
         <h1>{name}</h1>
         <ul>
-          {hobbies.map(hundo => <li>{hundo}</li>)}
+          {hobbies.map(h => <li>{h}</li>)}
         </ul>
       </div>
     )

@@ -7,7 +7,7 @@ function sort() {
 }
 
 function sing() {
-	console.log('LA LA LA');
+	console.log('LA LA hello - this is a test!');
 }
 
 export default helpful;
